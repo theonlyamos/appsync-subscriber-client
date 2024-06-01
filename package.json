@@ -1,6 +1,6 @@
 {
   "name": "@theonlyamos/appsync-subscriber-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple and lightweight client for subscribing to AWS AppSync GraphQL subscriptions using @theonlyamos/appsync-subscriber-client",
   "main": "index.js",
   "type": "module",
