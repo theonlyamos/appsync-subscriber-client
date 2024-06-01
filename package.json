@@ -19,7 +19,16 @@
     "appsync",
     "subscription",
     "realtime",
-    "aws"
+    "aws",
+    "front-end",
+    "react",
+    "vuejs",
+    "angular",
+    "nextjs",
+    "gatsby",
+    "svelte",
+    "graphql",
+    "appsync"
   ],
   "author": "Amos Amissah <theonlyamos@gmail.com>",
   "license": "Apache-2.0",
